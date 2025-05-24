@@ -2,6 +2,12 @@
 
 A classic Tetris implementation using vanilla JavaScript and HTML5 Canvas.
 
+## Screenshot
+
+![Tetris Gameplay](assets/tetris-gameplay.png)
+
+*Screenshot of the game showing active gameplay with next piece preview and score tracking*
+
 ## Overview
 
 This project is a modern implementation of the classic Tetris game that runs in the browser. It features:
